@@ -149,13 +149,13 @@ Sou um DevOps Engineer apaixonado por automação, infraestrutura como código e
 <div align="center">
   
 ### ☁️ Cloud Certifications
-*AWS Solutions Architect | Azure DevOps Engineer | Google Cloud Associate*
+*AWS Solutions Architect | Azure DevOps Engineer | Google Cloud Associate* (Em preparação ate ze 2025)
 
 ### 🔧 DevOps & Tools
 *Kubernetes Administrator | Terraform Associate | Docker Certified*
 
 ### 📊 Monitoring & Security
-*Prometheus Certified | Security+ | CompTIA Cloud+*
+*Prometheus Certified | Security+ | CompTIA Cloud+* (Em preparação ate ze 2025)
 
 </div>
 
@@ -195,3 +195,4 @@ Sou um DevOps Engineer apaixonado por automação, infraestrutura como código e
   <h3>🙏 Obrigado pela visita!</h3>
   <p>⭐ Se gostou do meu perfil, não esqueça de dar uma estrela nos meus repositórios!</p>
 </div>
+
